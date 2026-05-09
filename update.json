@@ -1,5 +1,5 @@
 {
-    "latest_version": "6.1.0",
-    "download_url": "https://pan.baidu.com/s/1OCxX5eHMdCU3v6dqbww01Q?pwd=r4hk",
-    "release_notes": "【v6.1.0 更新日志】\n1. 优化了ui,让软件更流畅。\n2. 不提供任何游戏地图文件，与任何游戏无关，请大家自行研究使用。\n3. 该软件为图像匹配学习软件。\n4. 路线地图等资源共享网站www.mapforge.top。"
+    "latest_version": "6.2.0",
+    "download_url": "https://pan.baidu.com/s/16sB1ESG0riAQoxKlcNsq6w?pwd=6cff",
+    "release_notes": "【v6.2.0 更新日志】\n1. 新增了小地图缩放（非锁定状态下滚轮缩放）\n2. 新增了路线选择时拖动可以一键全选路线\n3. 修复了全屏模式下锁定后仍可能弹出鼠标箭头\n4. 新增了路线偏移按钮，可调整旧版路线整体偏移\n5. 路线地图等资源共享网站www.mapforge.top"
 }
